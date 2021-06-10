@@ -1,0 +1,10 @@
+{
+  "name": "hacker_rank",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nik Luparev",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.3.2"
+  }
+}
